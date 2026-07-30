@@ -1,4 +1,3 @@
-# cloud-security-governance-case-study
 
 Cloud Security case study analyzing AWS security vulnerabilities in a healthcare environment using Defense-in-Depth, IAM,
 encryption, Zero Trust, and compliance best practices
